@@ -21,6 +21,11 @@
     font-family: var(--fonte-principal);
 }
 
+.topicos__link:hover {
+    color: var(--laranja);
+    background-color: var(--branco);
+}
+
 .topicos__lista {
     display: flex;
     justify-content: center;
