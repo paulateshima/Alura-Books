@@ -2,7 +2,7 @@
 
 ![Captura de Tela 2024-06-09 às 17 31 14](https://github.com/paulateshima/Alura-Books/assets/170154538/a8dc5bf2-34d0-4a92-bcd7-87026cd7a9d1)
 
-![Captura de Tela 2024-06-09 às 17 31 37](https://github.com/paulateshima/Alura-Books/assets/170154538/e0789cd1-51cd-4157-a7f3-d886e9d3f658)
+![Captura de Tela 2024-06-09 às 17 36 28](https://github.com/paulateshima/Alura-Books/assets/170154538/59cadf2c-2afb-4a73-b256-ebee0e413c96)
 
 ![Captura de Tela 2024-06-09 às 17 34 15](https://github.com/paulateshima/Alura-Books/assets/170154538/a352ea8b-fafc-4f1d-8254-d9e610df9879)
 
