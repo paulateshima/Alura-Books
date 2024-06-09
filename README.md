@@ -15,6 +15,7 @@ Projeto desenvolvido no curso da Formação da Plataforma Alura.
 * CSS3
 * Mobile First
 * Swiper JS
+* Responsividade
 
 ## Status do Projeto:
 
