@@ -1,14 +1,15 @@
-# Projeto Barbearia Alura
+# Projeto Alura Books
 
 
 
-Projeto desenvolvido no curso da Formação da Plataforma Alura, apresentado por Pedro Marins.
+Projeto desenvolvido no curso da Formação da Plataforma Alura.
 
 ## Técnicas e Tecnologias Sendo Utilizadas:
 
 * HTML5
 * CSS3
-* Responsividade
+* Mobile First
+* Swiper JS
 
 ## Status do Projeto:
 
